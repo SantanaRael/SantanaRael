@@ -5,6 +5,7 @@ Olá, meu nome é Israel Santana 👍
 - 🔭 Cursando Análise e desenvolvimento de sistemas
 - 🌱 Estudando HTML, CSS e JS
 - 📫 Meu e-mail para contato: israel100santana@gmail.com
+- 📫 Meu perfil no linkedin: https://www.linkedin.com/in/israel-santana-489a341a3/
 - ⚡ Linguagens que quero aprender no futuro: python, react/native e PHP
 
 <div>
