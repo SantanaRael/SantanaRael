@@ -6,6 +6,7 @@ Olá, meu nome é Israel Santana 👍
 - 📫 Meu e-mail para contato: israel100santana@gmail.com
 - 🪧 Meu perfil no linkedin: https://www.linkedin.com/in/israel-santana-489a341a3/
 - 👨🏿‍💻 Conhecimento em HTML, CSS, JS e Sql.
+- 🌐 Alguns projetos mais simples: https://codepen.io/santanarael/pens
 - 📌 Estudando Angular e node.js
 - ⚙️ Ferramentas que tenho experiência: VS Code, Figma, Android Studio
 
