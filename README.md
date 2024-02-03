@@ -17,9 +17,3 @@ Bem-vindo ao meu perfil! Sou um estudante de arquitetura de software com experiÃ
 
 - **E-mail:** israel100santana@gmail.com
 - **LinkedIn:** [linkedin.com/in/israel-sant](https://www.linkedin.com/in/israel-sant)
-
-
-  
----
-
-
