@@ -1,19 +1,29 @@
-Olá, meu nome é Israel Santana 👍
+### Olá, eu sou o Israel Santana! 👋
+
+Bem-vindo ao meu perfil! Sou um estudante de arquitetura de software com experiência em monitoramento usando Zabbix, Grafana e Google Cloud Platform (GCP). Tenho conhecimento em desenvolvimento full-stack em JavaScript, incluindo a criação de APIs, e familiaridade com Python, Docker e máquinas virtuais na AWS e GCP.
+
+✓ Arquitetura Limpa  
+✓ Arquitetura Hexagonal  
+✓ Domain-Driven Design (DDD)
+✓ Kubernetes
+
+Atualmente, estou expandindo meus conhecimentos em:
+
+- Serverless
+- CI/CD
+
+### 📚 Formação:
+
+- Formado em Análise e Desenvolvimento de Sistemas
+- Cursando Pós-graduação em Arquitetura de Software na FIAP
+
+### 📫 Entre em Contato:
+
+- **E-mail:** israel100santana@gmail.com
+- **LinkedIn:** [linkedin.com/in/israel-sant](https://www.linkedin.com/in/israel-sant)
 
 
-
-- 📚 Formado Análise e desenvolvimento de sistemas
-- Cursando Pós-graduação em Arquitetura de Software na FIAP 🖥️
-- 📫 Meu e-mail para contato: israel100santana@gmail.com
-- 🪧 Meu perfil no linkedin: https://www.linkedin.com/in/israel-sant
-- 👨🏿‍💻 Conhecimento em HTML, CSS, JS, SQL Server, C.
-- 🌐 Alguns projetos mais simples: https://codepen.io/santanarael/pens
-- 📌 Estudando node.js e Cloud com AWS
-- ⚙️ Ferramentas que tenho experiência: VS Code, Figma, Android Studio, Postman e outros.
-
-
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaRael&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
-  
+---
+
+
