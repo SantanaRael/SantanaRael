@@ -2,10 +2,10 @@
 
 Bem-vindo ao meu perfil! Sou um estudante de arquitetura de software com experiência em monitoramento usando Zabbix, Grafana e Google Cloud Platform (GCP). Tenho conhecimento em desenvolvimento full-stack em JavaScript, incluindo a criação de APIs, e familiaridade com Python, Docker e máquinas virtuais na AWS e GCP.
 
+✓ Kubernetes  
 ✓ Arquitetura Limpa  
 ✓ Arquitetura Hexagonal  
 ✓ Domain-Driven Design (DDD)
-✓ Kubernetes
 
 Atualmente, estou expandindo meus conhecimentos em:
 
