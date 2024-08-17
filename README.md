@@ -1,17 +1,26 @@
 ### Olá, eu sou o Israel Santana! 👋
 
-Bem-vindo ao meu perfil! Sou um estudante de arquitetura de software com experiência em monitoramento usando Zabbix, Grafana e Google Cloud Platform (GCP). Tenho conhecimento em desenvolvimento full-stack em JavaScript, incluindo a criação de APIs, e familiaridade com Python, Docker e máquinas virtuais na AWS e GCP.
+Sou formado estudante de arquitetura de software com experiência em monitoramento utilizando Zabbix, Grafana, GCP e DataDog. Tenho conhecimento em desenvolvimento full-stack com JavaScript, incluindo a criação de APIs, e sou familiarizado com Python.
+
+Plataformas e Ferramentas:
+- AWS: EC2, S3, EKS, RDS, IAM, CloudWatch, Lambda
+- GCP: Compute Engine, Stackdriver, IAM
+
+Competências:
+- Arquitetura Hexagonal
+- Arquitetura Limpa
+- CI/CD com Github Actions
+- Docker
+- Domain-Driven Design (DDD)
+- Kubernetes
+- Microservices
+- Terraform
 
 ### 🎓 Formação:
 
 - Formado em Análise e Desenvolvimento de Sistemas
 - Cursando Pós-graduação em Arquitetura de Software na FIAP
 
-### 📚 Estudando:
-
-- Serverless
-- CI/CD
- 
 
 ### 📫 Entre em Contato:
 
